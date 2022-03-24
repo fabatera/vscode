@@ -1,0 +1,28 @@
+{
+    "remote.autoForwardPortsSource": "output",
+    "C_Cpp.autocompleteAddParentheses": true,
+
+    // https://variwiki.com/index.php?title=Yocto_Programming_with_VSCode
+    // https://variwiki.com/index.php?title=Yocto_Toolchain_installation
+    // 
+	// "MY_CONFIG": {
+	// 	/* Target Device Settings */
+	// 	"TARGET_IP":"192.168.1.113",
+
+	// 	/* Project Settings */
+	// 	"PROGRAM":"arla_server",
+
+	// 	/* Yocto SDK Configuration */
+	// 	"ARCH":"aarch64-poky-linux",
+	// 	"OECORE_NATIVE_SYSROOT":"/home/ffer/Desktop/yocto-sdk/fsl-imx-wayland/5.10-hardknott/sysroots/x86_64-pokysdk-linux/",
+	// 	"SDKTARGETSYSROOT": "/home/ffer/Desktop/yocto-sdk/fsl-imx-wayland/5.10-hardknott/sysroots/cortexa53-crypto-poky-linux/",
+
+	// 	/* Yocto SDK Constants */
+	// 	"CC_PREFIX": "${config:MY_CONFIG.OECORE_NATIVE_SYSROOT}/usr/bin/${config:MY_CONFIG.ARCH}/${config:MY_CONFIG.ARCH}-",
+	// 	"CXX": "${config:MY_CONFIG.CC_PREFIX}g++ --sysroot=${config:MY_CONFIG.SDKTARGETSYSROOT}",
+	// 	"CC": "${config:MY_CONFIG.CC_PREFIX}gcc --sysroot=${config:MY_CONFIG.SDKTARGETSYSROOT}",
+	// }
+
+
+}
+
